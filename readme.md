@@ -1,6 +1,4 @@
-# Hello World
+# This is a Test Repository
 
-# unFunny changes
-# :)
+Feel free to test within this Repository
 
-Ich mach mal noch ne Änderung :)
