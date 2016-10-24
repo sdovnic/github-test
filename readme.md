@@ -2,4 +2,4 @@
 
 # Funny changes
 # :)
-Nix da! Das is mein Commit :D
+Ich mach mal noch ne Änderung :)
